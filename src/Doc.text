@@ -1,0 +1,22 @@
+data.json you can directly import or
+posts=[
+    {},{}
+]
+
+or in data.json file
+
+export function getPost(){
+    return posts;
+}
+
+----------------------
+jaha hame use karana hai waha 
+import {getPos} from "./data.json"; =>name export
+----
+or using function
+import data from "./data.json";
+
+in state
+state={
+    posts:getPost()
+}

@@ -1,0 +1,18 @@
+condition rendering
+passing event argument
+Creating json data.import export json data
+Each Child in a list should have a unique key property
+conditio n rendering and use && to remove undefined error =>WebStylePress
+-------
+bootstrap installa nd used=>npm install bootstrap@4.5.0
+C:\Users\hp\Desktop\Mohini\React\1march-2022\node_modules\bootstrap\dist\css\bootstrap.min.css
+include bootstrap ->import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'
+and url data showing table
+
+delete functionality on fetch data
+-------------------
+Counter example
+
+class component parent component to pass data child component
+---------------------
+React Developer Tools
