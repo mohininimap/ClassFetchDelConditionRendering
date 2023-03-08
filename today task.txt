@@ -15,4 +15,3 @@ Counter example
 
 class component parent component to pass data child component
 ---------------------
-React Developer Tools

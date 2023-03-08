@@ -20,3 +20,28 @@ in state
 state={
     posts:getPost()
 }
+-----------------------------
+-------------------------------
+
+
+=>useMemo hook=>when we work with state and props then our component unnecessary updated.Kuch state update kiyi
+function vaigere unnecessary call hote rehete hai.
+Its prevent the unwatend calls
+Its improve the application performance
+useMemo return karata hai ek value
+Q.)functional component me pure component banane ke liy kya use kar sakate hook?
+ans.)useMemo hook
+------------
+=>useCallback return karata hai ek function
+
+---------------
+
+APplication ke performance ko optimize karane ke liye usdeMemo and useCallBack use karate hai
+--------------
+memo=>to prevent unnecessary calls
+but there is a problem when a supply props in child then that unnecessary calls again
+---------------
+
+useEffect Vs useMemo
+useEffect->Its prevent rendering whole component
+useMEmo->Its prevents rendering of specific part of a component
